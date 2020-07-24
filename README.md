@@ -1,7 +1,9 @@
 # metagen2020
 Metagenomic analysis of bacterial communities arriving to Canary Islands
 
-- [Phylogenetic tree](https://itol.embl.de/tree/19314512421835441582916791)
+- [Phylogenetic tree 1st version](https://itol.embl.de/tree/19314512421835441582916791)
+
+- [Phylogenetic tree 2nd version](https://itol.embl.de/tree/193145124218333341595590788)
 
 - [Taxonomy](https://ull-stat.github.io/metagen2020/krona/taxonomy.html)
 
