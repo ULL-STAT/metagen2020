@@ -1,4 +1,4 @@
-# metagen2020
+# Airborne bacterial metagenomic characterization in Tenerife (Canary Islands)
 Metagenomic analysis of bacterial communities arriving to Canary Islands
 
 - [Phylogenetic tree 1st version](https://itol.embl.de/tree/19314512421835441582916791)
